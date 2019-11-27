@@ -1,1 +1,1 @@
-# nbinteract-tutorial
+# nbinteract
